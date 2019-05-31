@@ -1,0 +1,24 @@
+{
+  "name": "bonus_resultados",
+  "version": "1.0.1",
+  "description": "bonus resuldos",
+  "main": "principal.js",
+  "scripts": {
+    "test": "rest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bonus_resultados"
+  },
+  "keywords": [
+    "bonos",
+    "tdea"
+  ],
+  "author": "Jorge Eliecer Perez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "yargs": "^13.2.4"
+  }
+}
